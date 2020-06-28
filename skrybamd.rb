@@ -1,4 +1,4 @@
-class SkrybaMD < Formula
+class Skrybamd < Formula
   desc "Swifty powered 🔌Markdown Documentation generator. If your team need easy way to maintain and create documentation, this generator is for you."
   homepage "https://github.com/robertherdzik/SkrybaMD"
   url "https://github.com/robertherdzik/SkrybaMD.git",
